@@ -1,3 +1,7 @@
+<?php declare(strict_types = 1);
+
+phpinfo();
+?>
 <!DOCTYPE html>
 <html>
 <body>
@@ -16,7 +20,4 @@ function myFunction() {
 </script>
 
 </body>
-<?php declare(strict_types = 1);
 
-phpinfo();
-?>
