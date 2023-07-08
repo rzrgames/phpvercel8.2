@@ -1,7 +1,4 @@
 {
-    "builds": [
-    { "src": "/api/app.js", "use": "@vercel/node" }
-  ],
   "functions": {
     "api/index.php": {
       "runtime": "vercel-php@0.6.0"
